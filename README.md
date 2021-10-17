@@ -1,5 +1,5 @@
 - Hi, I’m Joseph Behroz
-- I’m currently learning C++, Python, 
+- I’m currently learning C++, Python, and Assembly.
 - You can reach me at josephbehroz@gmail.com
 
 <!---
