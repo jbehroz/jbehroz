@@ -1,5 +1,5 @@
 - Hi, I’m Joseph Behroz
-- I’m currently learning C++, Python, Java and Assembly, although I plan on learning even more languages.
+- I have experience in C, C++, Java, Python, JavaScript, other languages, and many fields of programming.
 - You can reach me at josephbehroz@gmail.com
 
 <!---
